@@ -34,7 +34,7 @@ export default function ThirdwebGuideOverlay({ show, setShow }: Props) {
         </h1>
         <p>
           An example repository to demonstrate how to use the thirdweb SDK to
-          programatically view and deploy any of thirdweb's pre-built smart
+          programatically view and deploy any of thirdweb&apos;s pre-built smart
           contracts.
         </p>
 
